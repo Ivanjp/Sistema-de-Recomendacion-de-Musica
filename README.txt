@@ -4,7 +4,7 @@ Se anexa un archivo .jar en la carpeta Programa/dist
 Dar click para ejecutar o por la terminal estando en la carpeta
 donde se encuentra el archivo y poner "java -jar NombreDelArchivoJAR" donde "NombreDelArchivoJAR" es el nombre del archivo JAR.
 
-
+...
 MODO DE USO
 
 1.- Poner el nombre de la canción y el artista correspondiente en el campo
